@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">简餐</string>
+    <string name="app_summary">简单菜谱，丰富生活</string>
+    <string name="version">版本：V</string>
+    <string name="version_code">1.0</string>
+
+    <string name="search_hint">输入菜谱名、食材名</string>
+    <string name="hint_not_empty">请输入要查询的菜谱名称</string>
+
+    <string name="end_summary">前言：</string>
+    <string name="ingredients">材料准备：</string>
+    <string name="mack_method">制作方法：</string>
+
+    <string name="request_error">数据请求失败</string>
+    <string name="loading_success">加载成功</string>
+    <string name="hint_no_net">菜谱都跑哪里去了T_T</string>
+    <string name="back">返回</string>
+    <string name="query_result">的搜索结果</string>
+    <string name="loading_menu">一大波菜谱正在赶来中~~~</string>
+    <string name="loading_hint">正在加载中...</string>
+</resources>
